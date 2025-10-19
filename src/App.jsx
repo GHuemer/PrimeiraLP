@@ -14,7 +14,7 @@ function App() {
     {
       icon: <CheckCircle className="w-12 h-12" />,
       title: "Instalação Gratuita",
-      description: "Nossos especialistas realizam o serviço sem custo adicional."
+      description: "Nosso especialistas realizam o serviço sem custo adicional."
     },
     {
       icon: <Clock className="w-12 h-12" />,
